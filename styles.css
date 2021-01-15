@@ -1,0 +1,105 @@
+
+.no-browser-support {
+    display: none;
+    font-size: 1.2rem;
+    color: #e600d4;
+    margin-top: 35px;
+}
+
+#charDiv p {
+    font-family: Cambria, Georgia, serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 400px;
+    padding-top: 30px;
+}
+
+
+#logs p {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: #fff;
+    font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #595959;
+    font-weight: 400;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-color: #DCECFE;
+    background: -webkit-linear-gradient(-450deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, -webkit-linear-gradient(-450deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, -webkit-linear-gradient(-450deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, -webkit-linear-gradient(-450deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, -webkit-linear-gradient(-450deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, -webkit-linear-gradient(-390deg, #DCECFE 0%, #F5E1EE 100%) no-repeat;
+    background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.05)) repeat-y, linear-gradient(120deg, #DCECFE 0%, #F5E1EE 100%) no-repeat;
+    background-position: 10%, 30%, 50%, 70%, 90%, 0;
+    background-size: 2px auto, 2px auto, 2px auto, 2px auto, 2px auto, 100% auto;
+    background-attachment: fixed;
+}
+
+/*button*/
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {
+    background: #F5E1EE;
+}
+
+/*button*/
+
+
+.topmenu {
+    margin: 19px;
+    position: absolute;
+    color: white;
+}
+
+.rectangle {
+    position: absolute;
+    display: block;
+    height: 80px;
+    width: 100%;
+    background-color: rgba(127, 101, 255, 0.25);
+}
+
+#landingPage {
+    padding-top: 120px;
+    padding-left: 50px;
+}
+
+#scoreDiv {
+    padding-top: 120px;
+    padding-left: 50px;
+}
+#warnings {
+    position: fixed;
+    padding-left: 0px;
+    padding-right: 10px;
+    bottom: 10px;
+}
+
+#instructions{
+    padding: 10px;
+    font-size: 18px;
+}
+
+/*style image*/
+/*#imageDiv {*/
+    /*position: relative;*/
+/*}*/
+/*#imageDiv img {*/
+    /*position: absolute;*/
+    /*top: 0px;*/
+    /*right: 0px;*/
+/*}*/
+/*style image*/
