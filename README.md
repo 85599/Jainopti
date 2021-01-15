@@ -14,7 +14,7 @@ https://github.com/85599/Jainopti
 
 Try it out here on chrome!
 ```
-()
+https://85599.github.io/Jainopti.github.io/
 ```
 
 
